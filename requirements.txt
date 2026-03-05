@@ -1,0 +1,9 @@
+firebase-admin==6.4.0
+requests==2.31.0
+python-dotenv==1.0.0
+pandas==2.1.4
+numpy==1.26.2
+schedule==1.2.0
+python-telegram-bot==20.6
+ccxt==4.1.43
+stripe==7.6.1
